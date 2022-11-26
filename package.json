@@ -1,0 +1,22 @@
+{
+  "name": "useragentapp",
+  "version": "1.0.0",
+  "description": "An app to play with user agents.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrBrain295/useragentapp.git"
+  },
+  "keywords": [
+    "useragent"
+  ],
+  "author": "MrBrain295",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MrBrain295/useragentapp/issues"
+  },
+  "homepage": "https://github.com/MrBrain295/useragentapp#readme"
+}
